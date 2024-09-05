@@ -10,10 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.6.8",
     "chalk": "^4.1.2",
-    "js-beautify": "^1.14.2",
-    "jsonwebtoken": "^9.0.0",
+    "js-beautify": "^1.14.9",
+    "jsonwebtoken": "^9.0.2",
     "uuid": "^8.3.2",
     "yargs": "^17.5.1"
   }
