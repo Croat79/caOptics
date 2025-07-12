@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
-    "js-beautify": "^1.14.2",
+    "js-beautify": "^1.14.10",
     "jsonwebtoken": "^9.0.0",
     "uuid": "^8.3.2",
     "yargs": "^17.5.1"
